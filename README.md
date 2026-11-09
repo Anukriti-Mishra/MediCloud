@@ -1,6 +1,6 @@
 # MediCloud
 
-A cloud-based healthcare management platform built as a portfolio project for MS Computer Science applications.
+A cloud-based healthcare management platform.
 
 ## Goal
 
